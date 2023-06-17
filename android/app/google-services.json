@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985501678293",
+    "project_id": "unitrip-c36ce",
+    "storage_bucket": "unitrip-c36ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985501678293:android:5b8439be37d6e27674805c",
+        "android_client_info": {
+          "package_name": "com.unitrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985501678293-p969nv5cp3tcvvejo53qpg6mf3ik0vu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfZh4JsD7CNheBP4CgLiDbUzfPKUOEWTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985501678293-p969nv5cp3tcvvejo53qpg6mf3ik0vu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
