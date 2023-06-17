@@ -7,4 +7,3 @@ The insufficient number of dormitories in the surrounding area and university ca
 UNITRIP facilitates the transportation of students between the school and the city center, and reduces the use of personal vehicles in university transportation.
 It brings together students who have transportation problems and students who travel with their own vehicles.
 While solving the transportation problem, it also reduces the transportation cost by ride sharing.
-
