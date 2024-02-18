@@ -8,6 +8,10 @@ UNITRIP facilitates the transportation of students between the school and the ci
 It brings together students who have transportation problems and students who travel with their own vehicles.
 While solving the transportation problem, it also reduces the transportation cost by ride sharing.
 
-<p align="center">
+<p align="center"> 
 <img src="https://github.com/ferenozcelik/unitrip/blob/master/unitrip-poster.png" width="600">
+  <img src="https://github.com/ferenozcelik/unitrip/blob/master/ss1.jpeg" width="600">
+  <img src="https://github.com/ferenozcelik/unitrip/blob/master/ss2.jpeg" width="600">
+  <img src="https://github.com/ferenozcelik/unitrip/blob/master/ss3.jpeg" width="600">
+  <img src="https://github.com/ferenozcelik/unitrip/blob/master/ss4.jpeg" width="600">
 </p>
