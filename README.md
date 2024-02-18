@@ -10,8 +10,8 @@ While solving the transportation problem, it also reduces the transportation cos
 
 <p align="center"> 
 <img src="https://github.com/ferenozcelik/unitrip/blob/master/unitrip-poster.png" width="600">
-  <img src="https://github.com/ferenozcelik/unitrip/blob/master/ss1.jpeg" width="600">
-  <img src="https://github.com/ferenozcelik/unitrip/blob/master/ss2.jpeg" width="600">
-  <img src="https://github.com/ferenozcelik/unitrip/blob/master/ss3.jpeg" width="600">
-  <img src="https://github.com/ferenozcelik/unitrip/blob/master/ss4.jpeg" width="600">
+<img src="https://github.com/ferenozcelik/unitrip/blob/master/ss1.jpeg" width="300">
+<img src="https://github.com/ferenozcelik/unitrip/blob/master/ss2.jpeg" width="300">
+<img src="https://github.com/ferenozcelik/unitrip/blob/master/ss3.jpeg" width="300">
+<img src="https://github.com/ferenozcelik/unitrip/blob/master/ss4.jpeg" width="300">
 </p>
